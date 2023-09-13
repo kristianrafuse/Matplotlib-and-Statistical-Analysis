@@ -1,7 +1,6 @@
 Pandas, Matplotlib and Statistical Analysis
 -------
-
-In the dataset 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+In this example, I used Pandas, Matplotlib and Statistical Analysis techniques to analyze a dataset. In the dataset, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 ------
 Data wrangling:
